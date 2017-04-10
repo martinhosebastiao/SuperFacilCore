@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Entities\Administrativa\Documento\" />
+    <Folder Include="Entities\Comercial\Cliente\" />
+    <Folder Include="Entities\Comercial\Fornecedor\" />
+    <Folder Include="Entities\Comercial\Generico\" />
+    <Folder Include="Entities\Financeira\Banco\" />
+    <Folder Include="Entities\Financeira\Moeda\" />
+    <Folder Include="Interface\Services\" />
+    <Folder Include="Interface\Repositories\" />
+  </ItemGroup>
+
+</Project>
